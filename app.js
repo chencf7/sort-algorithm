@@ -8,6 +8,7 @@ var heapsort = require('./app/heapsort');
 var countingsort = require('./app/countingsort');
 var bucketsort = require('./app/bucketsort');
 
+// 入口
 function main(){
     var arr=[3,44,38,15,36,26,27,2,38,4,19,72,50];
 
